@@ -1,4 +1,4 @@
-## What I learn
+## What I learned
 
 * React basic
 * Functional component
